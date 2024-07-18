@@ -7,36 +7,16 @@ using System.Threading.Tasks;
 using ClickableTransparentOverlay;
 using ImGuiNET;
 using Gui;
-using Loop;
 
 namespace Hook
 {
 
-
-        class LoadHook
-        {
+    class LoadHook
+    {
         static void Main(string[] args)
         {
-
             Renderer renderer = new Renderer();
             renderer.Start().Wait();
-
-            Loop.Functions functions = new Loop.Functions();
-
-
-            while (true)
-            {
-                functions.function();
-
-
-
-                
-
-
-
-                Thread.Sleep(10);
-            }
-
         }
     }
 }

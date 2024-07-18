@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Szl_External_Hook
-build_property.ProjectDir = C:\Users\xvani\source\repos\Szl External Imgui Hook 64bit\Loader\
+build_property.ProjectDir = C:\Users\xvani\source\repos\loader\Loader\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

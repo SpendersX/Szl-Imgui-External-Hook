@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/XiUHD9Nkg=",
+  "dgSpecHash": "Qc4vT/KMo1M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\xvani\\source\\repos\\Szl External Imgui Hook 64bit\\Loader\\Szl External Hook.csproj",
+  "projectFilePath": "C:\\Users\\xvani\\source\\repos\\loader\\Loader\\Szl External Hook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xvani\\.nuget\\packages\\clickabletransparentoverlay\\9.1.0\\clickabletransparentoverlay.9.1.0.nupkg.sha512",
     "C:\\Users\\xvani\\.nuget\\packages\\imgui.net\\1.90.9.1\\imgui.net.1.90.9.1.nupkg.sha512",

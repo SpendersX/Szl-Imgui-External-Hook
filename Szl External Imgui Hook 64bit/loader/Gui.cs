@@ -23,18 +23,14 @@ namespace Gui
         [DllImport("user32.dll")]
         static extern short GetAsyncKeyState(int vkey);
 
-
-
-        Vector2 windowsize = new Vector2(688, 400);
-
-
         InputSimulator inputSimulator = new InputSimulator();
         Vector2 mouseMovement = new Vector2(0, 0);
 
-
-
         protected override void Render()
         {
+
+            // Gui Render
+
 
             StyleGui styleGui = new StyleGui();
 
@@ -43,17 +39,22 @@ namespace Gui
 
 
             ImGui.Begin("Window");
-            ImGui.SetWindowSize(windowsize);
-
-
-
-
-
-
 
 
             ImGui.End();
+            FunctionLoop();
+        }
+
+
+        void FunctionLoop()
+        {
+            // program functions
+
+            
+            
+
 
         }
+
     }
 }
